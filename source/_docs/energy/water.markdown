@@ -3,7 +3,7 @@ title: "Integrating your water usage"
 description: "Learn how to add information about your water usage to Home Assistant home energy management."
 ---
 
-Home Assistant allows you to track your water usage in the home energy management too.
+Home Assistant allows you to track your water usage in the home energy management tool.
 
 Although water is not strictly "energy", it is still a valuable resource to track and monitor as it is often tightly coupled with energy usage (like gas). Additionally, it can help you reduce your ecological footprint by using less water. 
 
